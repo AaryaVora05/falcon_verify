@@ -1,1 +1,10 @@
+RELEVENT FILES:
+falcon_verifier_top.sv
+s2_decomp.sv
+falcon_shake256_wrapper.sv
+hash2point.sv
+s1_calc.sv
+falcon_poly_mul_ref.sv
+norm_acc.sv
 
+Others are shake256 implementation.
